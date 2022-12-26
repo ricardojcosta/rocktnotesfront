@@ -15,6 +15,8 @@ Projeto construído no curso Explorer da Rocketseat. Criação do front-end de u
   - styled-components
   - react-icons/fi
   - vite
+  - html
+  - css
 
 ## ✉ Contato
 
