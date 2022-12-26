@@ -5,7 +5,7 @@
 
 Projeto construído no curso Explorer da Rocketseat. Criação do front-end de uma aplicação para cadastrar notas.
 
-![preview](./.github/preview.PNG)
+![preview](./.github/preview.png)
 
 ## ⚒ Tecnologias
   - JS 
